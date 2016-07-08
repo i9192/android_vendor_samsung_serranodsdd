@@ -22,4 +22,4 @@ PRODUCT_PACKAGES += \
     libTimeService \
     TimeService
 
-$(call inherit-product, vendor/samsung/serrano-common/serrano-common-vendor-blobs.mk)
+$(call inherit-product, vendor/samsung/serranodsdd/serrano-common-vendor-blobs.mk)
